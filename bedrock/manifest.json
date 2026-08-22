@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "server",
+    "description": "server agustinossmp",
+    "uuid": "db08119f-7faa-4cde-b37e-3dee33468f60",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "server",
+      "type": "resources",
+      "uuid": "bf8d7871-32e2-4673-aa28-cde17e96d427",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
